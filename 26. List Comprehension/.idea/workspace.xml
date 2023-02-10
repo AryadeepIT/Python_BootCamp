@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6475109-cbb1-4202-8777-358bf83d9c2e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../26. List and Dictionary Comprehension/NATO-alphabet-project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../26. List and Dictionary Comprehension/data_overlap_excercise/data_overlap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../26. List and Dictionary Comprehension/data_overlap_excercise/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../26. List and Dictionary Comprehension/data_overlap_excercise/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../26. List and Dictionary Comprehension/dictionary-comprehension/ch1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../26. List and Dictionary Comprehension/dictionary-comprehension/ch2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../26. List and Dictionary Comprehension/dictionary-comprehension/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../26. List and Dictionary Comprehension/iterate-over-pandas_dataframe/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../26. List and Dictionary Comprehension/list-comprehension/filter_even_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../26. List and Dictionary Comprehension/list-comprehension/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../26. List and Dictionary Comprehension/list-comprehension/square_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06. Functions and Loops - Basics/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../06. Functions and Loops - Basics/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LYQePFYnH9qUw28huLRlKT9zYD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CODE\PYTHON\26. List and Dictionary Comprehension\list-comprehension" />
+      <recent name="D:\CODE\PYTHON\26. List Comprehension\data_overlap_excercise" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6475109-cbb1-4202-8777-358bf83d9c2e" name="Changes" comment="" />
+      <created>1676045630993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676045630993</updated>
+    </task>
+    <servers />
+  </component>
+</project>
